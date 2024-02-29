@@ -1,0 +1,76 @@
+Sachin Bodare
+Computer Engineer
+
+Pune
+Mobile:  9545242549
+
+Student of computer engineering from Savitribai Phule Pune University interested to work with IT companies where I can contribute my skills and do my best for company.
+
+PERSONAL INFORMATION
+  Address: , Pune, 
+  Nationality: 
+  Driving License: 
+  Hobbies: Trekking
+Playing Games
+Watching Movies
+
+SOCIAL PROFILES
+  * Linkedin: https://www.linkedin.com/in/Sachin_Bodare
+  * Github: https://github.com/Sachinbodare/Sachin/tree/59a0806ce9b089df5ac6110c2a37b0db8050e05f
+
+LANGUAGES
+  ★★☆☆☆ English
+  ★☆☆☆☆ Hindi
+  ★☆☆☆☆ Marathi
+
+SKILLS
+  ★★★★★ HTML
+  ★★★★★ CSS
+  ★★★★★ Bootstrap
+  ★★★★★ Javascript
+  ★★★★★ Java
+  ★★★★★ Python
+  ★★★★★ MySQL
+  ★★★★★ jQuery
+  ★★★★★ React Js
+  ★★★★★ Git
+  ★★★★★ OOPS
+  ★★★★★ Data Strucure
+  ★★★★★ Business Intelligence
+
+WORK EXPERIENCE
+  * 
+    Automated Tour Planner at , 
+      Basically this project made using Java,Html,Css,Javascript that We Proposed a Smart Trip Planner platform to help every tourists create their itinerary based on their preference.
+
+  * 
+    Library Management System at , 
+      This project made in java using eclipse IDE, for better understanding of database. It is GUI based so anyone can use easily. And he/she can use in dailylife. It is connected with MySQL database. Used mysql- connector-java- 8.0.21.jar to
+
+
+EDUCATION
+  * July 2018 – July 2023
+    Sinhgad Institute of Technology and Science,Narhe, Pune BE Computer Engineering
+
+    7.69 CGPA
+  * 2017
+    Dr BJ Date Prashala,Natepute, Solapur XII
+
+    54.46%
+  * 2015
+    Shri Banling Vidyalay,Phondshiras,  X
+
+    84.40%
+
+EXTRA-CURRICULAR ACTIVITIES
+  * 
+     at , 
+
+    IBM Skillbuild Innovation Camp 2021 
+Ideazzz 2k23-Project Concept Competition
+
+EXTRACURRICULAR ACTIVITIES
+  * , , 
+
+    WARDS AND HONOR 2021 Take part as volunteer in my college event Techtonic and Management Head of decoration team also Participated in Techtonic Games. 
+I was awarded in school and colleges Many more sports events and Annual functions.
